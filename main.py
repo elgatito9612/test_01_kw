@@ -1,0 +1,1 @@
+print ("Dzisiaj jest 21 marca 2025 roku (21.03.2025)")
